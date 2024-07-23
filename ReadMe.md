@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudande de Desenvolvimento de Software<br>Interessado em aprender novas tecnologias
+Estudante de Desenvolvimento de Software<br>Interessado em aprender novas tecnologias
 
 
 ## 🌐 Socials:
